@@ -12,6 +12,7 @@ nav {
 header {
   font-size: 18px;
   color: white;
+  padding-bottom: 20px;
 }
 h1 {
   font-size: 70px;
@@ -44,4 +45,6 @@ footer {
 }
 .content {
   background-color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
